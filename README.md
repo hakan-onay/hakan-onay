@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/GitHub-hakan--onay-black?logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/hakanonay/">
-    <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" />
   </a>
 </p>
 
