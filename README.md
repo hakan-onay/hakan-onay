@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  Software Engineering Student | Data Science & Software Development
+  Software Engineering Student | Software Development
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Data+Science+Enthusiast;Python+%7C+Java+%7C+C%23+%7C+.NET;Learning+by+Building+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Python+%7C+Java+%7C+C%23+%7C+.NET;Learning+by+Building+Projects" />
 </p>
 
 ---
